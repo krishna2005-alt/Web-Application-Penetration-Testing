@@ -1,0 +1,12 @@
+Database Schema Disclosure
+
+Severity: High
+
+Description
+Application responses exposed database structure information that could assist further attacks.
+
+OWASP Category
+A02:2021 – Sensitive Data Exposure
+
+Status
+Verified and Documented
