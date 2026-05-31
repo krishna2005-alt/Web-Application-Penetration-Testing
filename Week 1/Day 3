@@ -1,5 +1,4 @@
 OWASP Juice Shop is an intentionally insecure web application developed by the OWASP Foundation for learning web application security, penetration testing, and the OWASP Top 10 vulnerabilities.
-
 It simulates a real-world online shopping website and contains numerous security flaws that allow students and security professionals to practice identifying and analyzing common web vulnerabilities in a safe environment. The application includes challenges related to Injection, Broken Access Control, Authentication Failures, Security Misconfiguration, Cross-Site Scripting (XSS), and many other categories.
 
 OWASP Juice Shop is widely used for:
