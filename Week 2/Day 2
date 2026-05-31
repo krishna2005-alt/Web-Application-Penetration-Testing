@@ -1,0 +1,12 @@
+DOM-Based Cross-Site Scripting (XSS)
+
+Severity: High
+
+Description
+Client-side JavaScript processed untrusted input without sufficient validation, resulting in DOM-based XSS behavior.
+
+OWASP Category
+A03:2021 – Injection / Cross-Site Scripting
+
+Status
+Verified and Documented
