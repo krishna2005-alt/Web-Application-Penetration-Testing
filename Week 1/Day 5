@@ -1,0 +1,44 @@
+Objective
+
+Configure OWASP Juice Shop to work with Burp Suite and verify that all application traffic can be monitored for security testing activities.
+
+Overview
+
+OWASP Juice Shop is a deliberately vulnerable web application designed for security training and penetration testing practice. Integrating it with Burp Suite allows HTTP/HTTPS requests and responses to be intercepted and analyzed during security assessments.
+
+Activities Performed
+Accessed the OWASP Juice Shop application.
+Verified application functionality in the browser.
+Configured browser traffic to pass through Burp Suite.
+Confirmed successful interception of Juice Shop requests.
+Explored application pages while monitoring traffic.
+Generated an initial site map using Burp Suite.
+Collected baseline application traffic for future testing.
+Burp Suite Verification
+Proxy Intercept enabled and tested.
+HTTP History captured application requests.
+Target Site Map populated automatically.
+Requests and responses successfully analyzed.
+Pages Explored
+Home Page
+Login Page
+Registration Page
+Product Search
+Shopping Basket
+User Account Features
+Tools Used
+OWASP Juice Shop
+Burp Suite Community Edition
+Google Chrome
+Outcome
+
+Successfully connected OWASP Juice Shop with Burp Suite and verified that web traffic could be intercepted, monitored, and analyzed. The application is now ready for reconnaissance and vulnerability assessment activities in Week 2.
+
+Learning Outcome
+
+Gained practical experience configuring a web application testing environment and using Burp Suite to observe application behavior and traffic flow.
+
+References
+OWASP Juice Shop: https://owasp-juice.shop
+Juice Shop GitHub: https://github.com/juice-shop/juice-shop
+PortSwigger Burp Suite: https://portswigger.net/burp
