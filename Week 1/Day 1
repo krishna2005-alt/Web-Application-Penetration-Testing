@@ -4,12 +4,10 @@ Description:
 Broken Access Control occurs when users can access resources or perform actions beyond their intended permissions. Attackers may view, modify, or delete data belonging to other users by bypassing authorization checks.
 
 Examples:
-
 Accessing another user's profile by changing a URL parameter.
 Viewing admin pages without proper privileges.
 
 Impact:
-
 Unauthorized data access
 Data modification
 Account takeover
@@ -19,12 +17,10 @@ Description:
 Cryptographic Failures happen when sensitive information is not adequately protected through encryption during storage or transmission.
 
 Examples:
-
 Passwords stored in plain text.
 Sensitive data transmitted over HTTP instead of HTTPS.
 
 Impact:
-
 Data theft
 Privacy violations
 Identity fraud
@@ -34,13 +30,11 @@ Description:
 Injection vulnerabilities occur when untrusted user input is interpreted as commands or queries by a backend system.
 
 Examples:
-
 SQL Injection
 Command Injection
 LDAP Injection
 
 Impact:
-
 Database compromise
 Unauthorized access
 Data leakage
@@ -48,14 +42,11 @@ A04:2021 – Insecure Design
 
 Description:
 Insecure Design refers to weaknesses introduced during application design and architecture, where security requirements are not properly considered.
-
 Examples:
-
 Lack of rate limiting.
 Missing security controls in password reset workflows.
 
 Impact:
-
 Business logic abuse
 Unauthorized actions
 Increased attack surface
@@ -65,13 +56,11 @@ Description:
 Security Misconfiguration occurs when applications, servers, or frameworks are configured insecurely.
 
 Examples:
-
 Default credentials enabled.
 Detailed error messages exposed.
 Unnecessary services running.
 
 Impact:
-
 Information disclosure
 Unauthorized access
 System compromise
