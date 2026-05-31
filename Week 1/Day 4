@@ -1,9 +1,7 @@
 Objective
-
 Install and configure Burp Suite Community Edition to intercept and analyze web application traffic during security testing.
 
 Overview
-
 Burp Suite is a widely used web application security testing tool developed by PortSwigger. It provides features for intercepting HTTP/HTTPS traffic, analyzing requests and responses, and identifying potential security issues in web applications.
 
 Activities Performed
